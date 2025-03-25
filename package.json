@@ -17,6 +17,7 @@
   "homepage": "https://github.com/pedro-lopes-flooxai/restful-node-js#readme",
   "description": "",
   "dependencies": {
+    "consign": "^0.1.6",
     "express": "^4.21.2"
   }
 }
