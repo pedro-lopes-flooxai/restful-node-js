@@ -15,5 +15,8 @@
     "url": "https://github.com/pedro-lopes-flooxai/restful-node-js/issues"
   },
   "homepage": "https://github.com/pedro-lopes-flooxai/restful-node-js#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
